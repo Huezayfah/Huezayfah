@@ -1,4 +1,4 @@
-### Hi there! I'm Huzaifa, a software programmer and an aspiring game developer   <img src="https://github.com/Huezayfah/Huezayfah/blob/main/Hello.gif" width="30px">
+### Hi there! I'm Huzaifa, a software programmer and developer   <img src="https://github.com/Huezayfah/Huezayfah/blob/main/Hello.gif" width="30px">
 
 ```javascript
 const about = {
