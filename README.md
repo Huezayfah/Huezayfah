@@ -12,6 +12,7 @@ const about = {
         linkedin: 'www.linkedin.com/in/huzaifa-raja',
         roblox: 'https://www.roblox.com/users/35340553/profile#!/creations',
         most popular developed game: 'https://www.roblox.com/games/6579658287/Klorox-Battlegrounds',
+        another popular developed game: 'https://www.roblox.com/games/516402099/2x-EXP-MOBS-Project-Velocity-Demo',
         open world roblox project: 'https://www.roblox.com/games/1506997967/DanMachi-Online',
         story mode roblox project: 'https://www.roblox.com/games/1268093214/Kyoukai-no-Boundary',
     },
