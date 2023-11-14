@@ -4,8 +4,8 @@
 const about = {
     name: 'huzaifa raja',
     experience: {
-        education: 'ce @ york university',
-        internships: 'summer co op @ BrandEQ Group as a Web Dev & Graphics Designer'
+        education: 'CE @ York University',
+        internships: 'Application Developer Intern @ FCT', 'Web Developer @ BrandEQ'
     },
     links: {
         github: 'https://github.com/Huezayfah',
